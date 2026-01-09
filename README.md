@@ -1,6 +1,6 @@
 # 🚀 Databricks 14 Days AI Challenge
 
-This repository documents my learning journey through the Databricks 14 Days AI Challenge, organized by Indian Data Club in collaboration with Codebasics and Databricks.
+This repository documents my learning journey through the **Databricks 14 Days AI Challenge**, organized by **Indian Data Club** in collaboration with Codebasics and Databricks.
 The challenge focuses on building strong fundamentals in Databricks, Apache Spark, and modern data engineering & AI workflows through daily hands-on practice and real-world use cases.
 
 ## 📌 Challenge Overview
@@ -56,12 +56,12 @@ Experiment tracking and ML lifecycle using MLflow<br>
 
 ### 🙌 Acknowledgements
 
-Thanks to:@Databricks, @Codebasics, @Indian Data Club
+Thanks to:**Databricks**, **Codebasics**, **Indian Data Club**
 
 for organizing this challenge and enabling practical, industry-relevant learning.
 
 ### 🔗 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/rammani-pandey<br>
-GitHub: https://github.com/RammaniPandey<br>
-Medium: https://medium.com/@ram.2004in
+**LinkedIn:** https://www.linkedin.com/in/rammani-pandey<br>
+**GitHub:** https://github.com/RammaniPandey<br>
+**Medium:** https://medium.com/@ram.2004in
