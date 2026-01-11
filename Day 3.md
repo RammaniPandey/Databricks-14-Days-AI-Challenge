@@ -1,4 +1,4 @@
-# 📅 Day 3 (11/01/26) – PySpark Transformations Deep Dive
+# 📅 Day 3 – PySpark Transformations Deep Dive
 
 ## 📌 Overview
 Day 3 focuses on **advanced PySpark transformations** used in real-world big data pipelines. The emphasis is on understanding how PySpark scales compared to Pandas, performing complex joins, leveraging window functions for analytical computations, and creating derived features using built-in functions and UDFs.
